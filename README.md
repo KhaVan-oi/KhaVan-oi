@@ -1,8 +1,8 @@
 # Hi, I'm Van Duong Kha 👋
-Computer Science Student | QA / Software Testing Intern
+Computer Science Student | Passionate about QA / Software Testing
 
 ## 👨‍🎓 About Me
-- 🎓 Computer Science student
+- 🎓 Computer Science student at Ho Chi Minh City University of Technology (HCMUT)
 - 🧪 Interested in Software Testing & QA
 - 💻 Basic knowledge of JavaScript, Python, Java
 - 🛠 Currently learning Playwright
@@ -11,7 +11,6 @@ Computer Science Student | QA / Software Testing Intern
 - Manual testing, test case & test scenario design
 - API testing with Postman
 - SQL querying, relational database basics
-- HTML, CSS, JavaScript
 
 ## 🚀 Projects
 ### LMS – Learning Management System
@@ -23,6 +22,4 @@ Computer Science Student | QA / Software Testing Intern
 - Database design & frontend development
 
 ## 📫 Contact
-- 📧 Email: your@email.com
-- 🔗 GitHub: https://github.com/username
-- 🔗 LinkedIn: https://linkedin.com/in/username
+- 📧 Email: van.duongkhak23@hcmut.edu.vn
