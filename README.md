@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Van Duong Kha 👋
+Computer Science Student | QA / Software Testing Intern
 
-<!--
-**KhaVan-oi/KhaVan-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+- 🎓 Computer Science student
+- 🧪 Interested in Software Testing & QA
+- 💻 Basic knowledge of JavaScript, Python, Java
+- 🛠 Currently learning Playwright
 
-Here are some ideas to get you started:
+## 🧪 Skills
+- Manual testing, test case & test scenario design
+- API testing with Postman
+- SQL querying, relational database basics
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### LMS – Learning Management System
+- Database design & frontend development
+- Manual testing and API validation
+
+### BKJOB – Job Recruitment Platform
+- Manual testing for Jobseeker, Recruiter, Admin roles
+- Database design & frontend development
+
+## 📫 Contact
+- 📧 Email: your@email.com
+- 🔗 GitHub: https://github.com/username
+- 🔗 LinkedIn: https://linkedin.com/in/username
